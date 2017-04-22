@@ -6,3 +6,4 @@
 - Larry Plotter y la Orden de Unix
 - Larry Plotter y el Misterio del Hacket
 - Larry Plotter y los Commits de la Muerte
+- Bonus: Larry Plotter y el Código Maldito
