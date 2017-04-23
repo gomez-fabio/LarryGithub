@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker único.
 
-**Fabio Gómez**
+**Fabio Gómez**, git padawan.
